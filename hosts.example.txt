@@ -1,0 +1,7 @@
+# One host per line. Optional port with host:port form.
+# Lines starting with # are ignored.
+#
+# 10.0.0.10
+# 10.0.0.11:22
+# db-server.example.com
+# app-server.example.com:2222
